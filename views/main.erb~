@@ -1,0 +1,40 @@
+<DOCTYPE HTML>
+<html>
+<head>
+	<title>Grand Hotel</title>
+	<link href = "/css/bootstrap.min.css" rel = "stylesheet">
+	<link href = "/css/bootstrap-theme.min.css" rel = "stylesheet">
+	
+</head>
+
+<body>
+
+<div class="navbar navbar-inverse">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <!--<a class="navbar-brand" href="#">Home</a>-->
+          </div>
+          <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="#">Grand Hotel</a></li>
+			  <li><a href="/grandhotel">Home</a></li>
+			  <li><a href="/about">About</a></li>
+              <li><a href="/rooms">Room Types</a></li>
+              <li><a href="/reserve">Reservation</a></li>
+             </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+ </div>
+
+ <font face = modern><b><h2><center>Welcome to the page of Grand Hotel!</b></center></h2></font>
+ <center><img src = "hotelpic.jpg"></center>
+ 
+</body>
+</html>
+

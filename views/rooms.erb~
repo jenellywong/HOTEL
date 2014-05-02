@@ -1,0 +1,65 @@
+<DOCTYPE HTML>
+<html>
+<head>
+	<title>Room Types</title>
+	<link href = "bootstrap.min.css" rel = "stylesheet">
+	<link href = "bootstrap-theme.min.css" rel = "stylesheet">
+</head>
+
+<body>
+
+<div class="navbar navbar-inverse">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <!--<a class="navbar-brand" href="#">Home</a>-->
+          </div>
+          <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="#">Grand Hotel</a></li>
+			  <li><a href="/grandhotel">Home</a></li>
+			  <li><a href="/about">About</a></li>
+              <li><a href="/rooms">Room Types</a></li>
+              <li><a href="/reserve">Reservation</a></li>
+			 </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+ </div>
+ 
+ <center>
+	<font face = georgia><h3>SINGLE ROOM</h3></font>
+	<h4>Been longing for some alone time? This room might just be the one for you! One single and comfortable bed coming right up.</h4>
+	<img src ="singleroom.jpg">
+	<br/><br/>
+	
+	<font face = georgia><h3>DOUBLE ROOM</h3></font>
+	<h4>This room is perfect for BFFs, lovers, siblings or even to one person. Reserve one now!</h4>
+	<img src = "doubleroom.jpg">
+	<br/><br/>
+	
+	<font face = georgia><h3>TWIN ROOM</h3></font>
+	<h4>The good thing about twin rooms is that you have enough space and if want a larger bed, sticking the two together will do!</h4>
+	<img src = "twinroom.jpg">
+	<br/><br/>
+	
+	<font face = georgia><h3>TWIN DOUBLE ROOM</h3></font>
+	<h4>You and your friends going out of town? Your family needs a vacation? No worries! A twin double room will guarantee comfort for you and your family members or friends.</h4>
+	<img src = "twindouble.jpg">
+	<br/><br/>
+	
+	<font face = georgia><h3>SUITE</h3></font>
+	<h4>Looking for some luxury to reward your hardworking, deserving self with? You've come to the right place!</h4>
+	<img src = "suite.jpg">
+		
+</center>
+</body>
+
+<!--www.preservearticles.com/2012020722901/what-are-the-types-of-room-generally-available-in-a-hotel.html-->
+
+
+</html>
